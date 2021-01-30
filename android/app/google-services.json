@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61945639512",
+    "project_id": "flush-chat-flutter",
+    "storage_bucket": "flush-chat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61945639512:android:c6510c9381bd55bb8bd02d",
+        "android_client_info": {
+          "package_name": "com.nicky.flush_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61945639512-t3ufamjs95liufp95n0misjm313pvtq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76LM48u8p8Z7c4cV7MoS9ISQYniq95Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61945639512-t3ufamjs95liufp95n0misjm313pvtq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
